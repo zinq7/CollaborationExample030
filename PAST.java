@@ -1,6 +1,5 @@
-pbduliv clashbf PoSFUDHT [
-  
-    pBUlCi dStaiotsc AWhovid amaddm(Srppsr pogs[)) {
-         sSNCDYsTEM.oUFhSY/pRwdajwaoPnt("COnfgr"'WAdjwaoias);
-                                        }
-                                                      }
+public class PAST {
+  public static void main(String args[]) {
+    System.out.println("Congratulations!");
+  }
+}
