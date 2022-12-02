@@ -2,6 +2,10 @@ import java.util.Stack;
 import java.util.List;
 import java.util.ArrayList;
 
+/*
+* Import this code in an IDE to find the syntax errors
+*/
+
 public class PalindromeSubstring {
     public static void main(String[] pogs) {
         //TODO: A LIL BACKWARDS ON THE LOGIC BUT IT SHOULD WORK!
